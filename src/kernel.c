@@ -71,5 +71,5 @@ void print(const char *str)
 void kernel_main()
 {
     terminal_initialize();
-    print("Hello World!\ntest");
+    print("HELLO !!!\nWELCOME TO QUANTUM OS");
 }
